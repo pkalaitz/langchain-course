@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59f5d130-f216-46e5-956e-bdbf525b7af6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pkalaitz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pkalaitz/langchain-course.git",
+    "accountId": "ac13b230-811b-4a39-9ba8-85ffbcfada25"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.02759920765277383" />
+      <entry key="MS500" value="0.5957448846773039" />
+      <entry key="S2" value="1.4090217269767353" />
+      <entry key="S5" value="1.731222479548372" />
+      <entry key="S10" value="1.8594472117461258" />
+      <entry key="S30" value="2.058978961182017" />
+      <entry key="S60" value="4.951995232609667" />
+      <entry key="M2" value="18.970754400145545" />
+      <entry key="M5" value="54.50639621400008" />
+      <entry key="M10" value="87.21605484822604" />
+      <entry key="M15" value="109.97613307966695" />
+      <entry key="M30" value="151.30361787042384" />
+      <entry key="H1" value="185.66759879387095" />
+      <entry key="H2" value="208.37753204470394" />
+      <entry key="H4" value="221.5051732632646" />
+      <entry key="D1" value="233.48268830532015" />
+      <entry key="W1" value="235.63780769013766" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.00000000000001" />
+      <entry key="S30" value="1.0000303929143475" />
+      <entry key="S60" value="1.0088650244835935" />
+      <entry key="M2" value="1.160075188113087" />
+      <entry key="M5" value="1.9249760034274548" />
+      <entry key="M10" value="2.6646461975144486" />
+      <entry key="M15" value="3.0254499640068926" />
+      <entry key="M30" value="3.46483658824465" />
+      <entry key="H1" value="3.7192329447398467" />
+      <entry key="H2" value="3.856154972752547" />
+      <entry key="H4" value="3.927190557667823" />
+      <entry key="D1" value="3.987740035093234" />
+      <entry key="W1" value="3.9982454890716808" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.1182766874844689" />
+      <entry key="MS500" value="0.8439527767501308" />
+      <entry key="S2" value="2.0090593526774616" />
+      <entry key="S5" value="2.538450871544857" />
+      <entry key="S10" value="2.7566101501495006" />
+      <entry key="S30" value="3.02316889698396" />
+      <entry key="S60" value="5.941489714319283" />
+      <entry key="M2" value="20.113023343077337" />
+      <entry key="M5" value="56.409976327968295" />
+      <entry key="M10" value="89.86314620972449" />
+      <entry key="M15" value="112.98740876203757" />
+      <entry key="M30" value="154.75961206459283" />
+      <entry key="H1" value="189.38180455770586" />
+      <entry key="H2" value="212.23099037842647" />
+      <entry key="H4" value="225.4309648136804" />
+      <entry key="D1" value="237.47018765813394" />
+      <entry key="W1" value="239.63601860539111" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FrOFUtGfjoHUREyJ5zdkIlWyY2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "project/hello-world",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59f5d130-f216-46e5-956e-bdbf525b7af6" name="Changes" comment="" />
+      <created>1782829619441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782829619441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
