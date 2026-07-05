@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59f5d130-f216-46e5-956e-bdbf525b7af6" name="Changes" comment="next commmit1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pkalaitz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pkalaitz/langchain-course.git&quot;,
+    &quot;accountId&quot;: &quot;ac13b230-811b-4a39-9ba8-85ffbcfada25&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6819916039304719" />
+      <entry key="MS500" value="3.2711412994147153" />
+      <entry key="S2" value="4.410541669186124" />
+      <entry key="S5" value="4.7481731778312755" />
+      <entry key="S10" value="5.011788603892669" />
+      <entry key="S30" value="8.778944781479069" />
+      <entry key="S60" value="13.717567511669987" />
+      <entry key="M2" value="18.20819598414889" />
+      <entry key="M5" value="21.94238109797312" />
+      <entry key="M10" value="23.463874605600022" />
+      <entry key="M15" value="24.87025115103334" />
+      <entry key="M30" value="42.01183297652526" />
+      <entry key="H1" value="114.77745004176967" />
+      <entry key="H2" value="268.3439532812565" />
+      <entry key="H4" value="461.9353184193921" />
+      <entry key="D1" value="778.5655702360386" />
+      <entry key="W1" value="857.0159292417671" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="1.4400804844983961E-226" />
+      <entry key="S30" value="5.241587976605414E-76" />
+      <entry key="S60" value="2.294875269655675E-38" />
+      <entry key="M2" value="1.675793987005804E-19" />
+      <entry key="M5" value="7.255760584589292E-8" />
+      <entry key="M10" value="9.896088838888312E-4" />
+      <entry key="M15" value="0.027204758367027654" />
+      <entry key="M30" value="0.8794889986151252" />
+      <entry key="H1" value="6.007009700023373" />
+      <entry key="H2" value="17.72230091966454" />
+      <entry key="H4" value="31.964133767534033" />
+      <entry key="D1" value="53.862179689805124" />
+      <entry key="W1" value="59.07770387569763" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6127924606577497" />
+      <entry key="MS500" value="3.2473647450044645" />
+      <entry key="S2" value="4.402810710634019" />
+      <entry key="S5" value="4.7448663052501034" />
+      <entry key="S10" value="5.009988691172008" />
+      <entry key="S30" value="8.77738962168399" />
+      <entry key="S60" value="13.71615556343582" />
+      <entry key="M2" value="18.207201018718468" />
+      <entry key="M5" value="21.94188697846812" />
+      <entry key="M10" value="23.46459024534194" />
+      <entry key="M15" value="24.897127171941086" />
+      <entry key="M30" value="42.888702850689135" />
+      <entry key="H1" value="120.7751691717332" />
+      <entry key="H2" value="286.0520470382857" />
+      <entry key="H4" value="493.8864309186292" />
+      <entry key="D1" value="832.424053290721" />
+      <entry key="W1" value="916.0930530026989" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FrOFUtGfjoHUREyJ5zdkIlWyY2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.test_chatgroq.executor": "Run",
+    "Python.trivial.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "project/react-search-agent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59f5d130-f216-46e5-956e-bdbf525b7af6" name="Changes" comment="" />
+      <created>1782829619441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782829619441</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1782833315382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782833315382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1782833409985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782833409985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="next commit">
+      <option name="closed" value="true" />
+      <created>1783082995952</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783082995952</updated>
+    </task>
+    <task id="LOCAL-00004" summary="next commmit1">
+      <option name="closed" value="true" />
+      <created>1783249171568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783249171568</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="project/hello-world" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="environment setup" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="next commit" />
+    <MESSAGE value="next commmit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="next commmit1" />
+  </component>
+</project>
