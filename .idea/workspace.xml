@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59f5d130-f216-46e5-956e-bdbf525b7af6" name="Changes" comment="search-agent envrironment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,61 +45,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0061425481722548" />
-      <entry key="MS500" value="2.100629494048488" />
-      <entry key="S2" value="5.925055810188144" />
-      <entry key="S5" value="8.022632957099313" />
-      <entry key="S10" value="8.979710997234836" />
-      <entry key="S30" value="11.29899378921065" />
-      <entry key="S60" value="15.957969015653434" />
-      <entry key="M2" value="31.930888864666464" />
-      <entry key="M5" value="93.38172380607847" />
-      <entry key="M10" value="190.50504099441392" />
-      <entry key="M15" value="272.0721239293653" />
-      <entry key="M30" value="436.923592638849" />
-      <entry key="H1" value="627.7138476208141" />
-      <entry key="H2" value="875.1285230441615" />
-      <entry key="H4" value="1186.4782544044795" />
-      <entry key="D1" value="1793.271056447453" />
-      <entry key="W1" value="1964.5865923801578" />
+      <entry key="MS100" value="1.1850874594928598" />
+      <entry key="MS500" value="2.1966012708998655" />
+      <entry key="S2" value="2.761603849042051" />
+      <entry key="S5" value="3.364245086741046" />
+      <entry key="S10" value="4.981603640261458" />
+      <entry key="S30" value="8.454713204149625" />
+      <entry key="S60" value="10.04275228378613" />
+      <entry key="M2" value="11.983174973130092" />
+      <entry key="M5" value="31.85854812235557" />
+      <entry key="M10" value="99.25181300051318" />
+      <entry key="M15" value="174.64148516688243" />
+      <entry key="M30" value="356.0158180370802" />
+      <entry key="H1" value="579.5240861234323" />
+      <entry key="H2" value="856.3921829114049" />
+      <entry key="H4" value="1190.9992358330217" />
+      <entry key="D1" value="1835.4665334820772" />
+      <entry key="W1" value="2017.5802117107028" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="1.9692980387701223E-171" />
-      <entry key="S10" value="6.1611557319139E-86" />
-      <entry key="S30" value="6.369598475268801E-29" />
-      <entry key="S60" value="1.3209205952587182E-14" />
-      <entry key="M2" value="2.4780499194695375E-7" />
-      <entry key="M5" value="0.008037819956289714" />
-      <entry key="M10" value="0.2884536704290734" />
-      <entry key="M15" value="0.9887732708966723" />
-      <entry key="M30" value="4.025979665288723" />
-      <entry key="H1" value="11.241143844621213" />
-      <entry key="H2" value="25.541262939923012" />
-      <entry key="H4" value="46.43745966360206" />
-      <entry key="D1" value="88.19014900307425" />
-      <entry key="W1" value="99.86677889557168" />
+      <entry key="S5" value="4.24178206009755E-224" />
+      <entry key="S10" value="2.8594376924188796E-112" />
+      <entry key="S30" value="1.0624737445043784E-37" />
+      <entry key="S60" value="5.394855128566495E-19" />
+      <entry key="M2" value="1.583658690825063E-9" />
+      <entry key="M5" value="0.0010650227601539247" />
+      <entry key="M10" value="0.10499929353700312" />
+      <entry key="M15" value="0.5040847853875571" />
+      <entry key="M30" value="2.874584058756765" />
+      <entry key="H1" value="9.4986573869433" />
+      <entry key="H2" value="23.478385381996244" />
+      <entry key="H4" value="44.522688709859686" />
+      <entry key="D1" value="87.57340402336591" />
+      <entry key="W1" value="99.76670659238559" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9786208798414222" />
-      <entry key="MS500" value="2.07852157511092" />
-      <entry key="S2" value="5.8964874912435965" />
-      <entry key="S5" value="8.005876025023808" />
-      <entry key="S10" value="8.97013387808654" />
-      <entry key="S30" value="11.295040178407522" />
-      <entry key="S60" value="15.955350398203393" />
-      <entry key="M2" value="31.927790146415735" />
-      <entry key="M5" value="93.38326509411091" />
-      <entry key="M10" value="190.78317038781142" />
-      <entry key="M15" value="273.0474835156357" />
-      <entry key="M30" value="440.9310588610311" />
-      <entry key="H1" value="638.9300815469901" />
-      <entry key="H2" value="900.6412074157338" />
-      <entry key="H4" value="1232.8903422575686" />
-      <entry key="D1" value="1881.4535188364193" />
-      <entry key="W1" value="2064.4521393194987" />
+      <entry key="MS100" value="1.12995117480933" />
+      <entry key="MS500" value="2.1763280860958565" />
+      <entry key="S2" value="2.755220104671629" />
+      <entry key="S5" value="3.3606899447686747" />
+      <entry key="S10" value="4.978102784263495" />
+      <entry key="S30" value="8.452184481360572" />
+      <entry key="S60" value="10.041164151556755" />
+      <entry key="M2" value="11.982181241752512" />
+      <entry key="M5" value="31.857952604100834" />
+      <entry key="M10" value="99.3523404602967" />
+      <entry key="M15" value="175.13812968718406" />
+      <entry key="M30" value="358.8767959203681" />
+      <entry key="H1" value="589.0014737937584" />
+      <entry key="H2" value="879.8441796690979" />
+      <entry key="H4" value="1235.497537727941" />
+      <entry key="D1" value="1923.0322941570555" />
+      <entry key="W1" value="2117.345686075491" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,29 +112,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.test_chatgroq.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trivial.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;project/react-search-agent&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Debug",
+    "Python.test_chatgroq.executor": "Run",
+    "Python.trivial.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "project/agents-under-the-hood",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
