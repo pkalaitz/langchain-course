@@ -13,9 +13,8 @@ load_dotenv()
 # Managed Jev:
 classifier = TypeSafeClassifier()
 
-# Local Jev on Ollama. Same class, same API.
 classifier = TypeSafeClassifier(
-    base_url="http://localhost:11434", model="tev1", api_key="ollama"
+    base_url="http://localhost:11434", model="tev1", api_key="........."
 )
 
 
